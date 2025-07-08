@@ -41,4 +41,3 @@ This is a simple Python project that uses OpenCV to recognize colors in a video.
 *This project is great for beginners to learn how to use OpenCV for color detection.* *
 
 **Demo Video**
-![Demo Video](https://github.com/user-attachments/assets/046dd535-62fb-46e6-8abf-ca119885e9f6)
